@@ -1,0 +1,111 @@
+<mxfile host="65bd71144e">
+    <diagram id="uF34GFSeDM6knXIIaCfM" name="ページ1">
+        <mxGraphModel dx="1155" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F9F9F9;fontColor=#000000;strokeColor=none;strokeWidth=3;glass=0;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="70" width="730" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#828282;strokeWidth=3;glass=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="80" width="430" height="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;strokeColor=#828282;strokeWidth=3;glass=0;" parent="1" vertex="1">
+                    <mxGeometry x="97" y="100" width="390" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="private-vm-01.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="212" y="110" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="VM-01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="403" y="190" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=block;html=1;fontSize=16;strokeWidth=3;endFill=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="217" y="147.2" as="sourcePoint"/>
+                        <mxPoint x="377" y="147" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="274" width="67" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="403.5" y="126" width="69" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="101.62" y="376" width="46.75" height="44" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="403.5" y="250" width="69" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="VM-02" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="403" y="314" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="120.5" y="126" width="69" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="VM-00" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="190" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Vnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="113.5" y="314" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="RG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="420" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;rounded=0;glass=0;sketch=0;strokeWidth=3;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="370" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Public DNS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="420" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;rounded=0;glass=0;sketch=0;strokeWidth=3;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="370" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Private DNS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="420" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="endArrow=block;html=1;fontSize=16;strokeWidth=3;endFill=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#000000;rounded=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="217" y="200.20000000000005" as="sourcePoint"/>
+                        <mxPoint x="380" y="310" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="200"/>
+                            <mxPoint x="240" y="310"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="private-vm-02.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="274" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+                    <mxGeometry x="683.8" y="128" width="62.400000000000006" height="62.400000000000006" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="on-premises" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="190" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="endArrow=none;html=1;fontSize=16;strokeWidth=3;endFill=0;fillColor=#60a917;strokeColor=#FF3333;fontColor=#000000;startArrow=block;startFill=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="147.20000000000005" as="sourcePoint"/>
+                        <mxPoint x="660" y="147" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="public-vm-01.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="505" y="110" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="public-vm-02.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=0;fontSize=16;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="267" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="endArrow=block;html=1;fontSize=16;strokeWidth=3;endFill=1;fillColor=#60a917;strokeColor=#FF3333;fontColor=#000000;rounded=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="660" y="184" as="sourcePoint"/>
+                        <mxPoint x="480" y="304" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="643" y="184"/>
+                            <mxPoint x="643" y="304"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
